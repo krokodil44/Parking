@@ -1,0 +1,32 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\Parking.mdb
+D:\Обучение\!C#\БД\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.MaynForm.resources
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\Parking.mdb
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.DataBase.resources
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.MainForm.resources
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+D:\Обучение\!C#\БД\Parking\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
